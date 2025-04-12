@@ -1,5 +1,5 @@
 # power_bi_project
-Power BI Dashboard
+Power BI Dashboard 
 */ Tóm tắt:
 1/ Rule tính bán kèm với LK: Lấy theo SĐT và Ngày tạo phiếu -> Cùng ngày cùng SĐT sẽ tính là Bán kèm
 2/ Rule tính bán kèm với MÁY CŨ: Lấy theo SĐT và Ngày tạo phiếu -> Cùng ngày cùng SĐT sẽ tính là Bán kèm
