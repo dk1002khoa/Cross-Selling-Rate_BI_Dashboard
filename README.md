@@ -2,6 +2,7 @@
 Power BI Dashboard 
 */ Tóm tắt:
 1/ Rule tính bán kèm với LK: Lấy theo SĐT và Ngày tạo phiếu -> Cùng ngày cùng SĐT sẽ tính là Bán kèm
+
 2/ Rule tính bán kèm với MÁY CŨ: Lấy theo SĐT và Ngày tạo phiếu -> Cùng ngày cùng SĐT sẽ tính là Bán kèm
 3/ Rule tính bán lẻ = [Tổng sl bán pk] - [Tổng sl bán kèm]
 4/ Rule tính bán chính = Tổng SL (LK/MÁY CŨ) bán ra
